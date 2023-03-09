@@ -1,0 +1,18 @@
+{
+  "name": "weilei-design-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "unocss": "^0.50.4",
+    "vite": "^4.1.4"
+  }
+}
